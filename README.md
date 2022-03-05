@@ -1,4 +1,4 @@
-# FWE Joke Library
+# Joke Library
 
 This project is based on a homework assignment that creates a joke library. It uses jokes from https://jokeapi.dev/ as a starting point, but own jokes may be added. These jokes are 
 transferred into a database and can be modified or deleted by the user: i.e. the user rates the funniness by adjusting a
